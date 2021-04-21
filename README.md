@@ -1,8 +1,7 @@
 # 플래피 버드 (Flappy Bird)
 DirectX 9로 제작한 [Flappy Bird](https://flappybird.fandom.com/wiki/Flappy_Bird) 의 모작 프로젝트입니다.
 
-# 프로젝트 기간
-`2020/01 ~ 2020/03`
+프로젝트 기간 : `2020/01 ~ 2020/03`
 
 # 키워드
 - `Visual Studio 2008`
