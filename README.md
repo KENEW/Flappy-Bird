@@ -1,4 +1,4 @@
-# Flappy-Bird
+# 플래피 버드 (Flappy Bird)
 DirectX 9로 제작한 [Flappy Bird](https://flappybird.fandom.com/wiki/Flappy_Bird) 의 모작 프로젝트
 
 # 키워드
