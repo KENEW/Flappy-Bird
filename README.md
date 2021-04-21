@@ -1,7 +1,7 @@
 # Flappy-Bird
 DirectX 9로 제작한 [Flappy Bird](https://flappybird.fandom.com/wiki/Flappy_Bird) 의 모작 프로젝트
 
-# 개발 환경
+# KEYWORD
 - `Visual Studio 2008`
 - `DirectX 9`
 - `C++`
