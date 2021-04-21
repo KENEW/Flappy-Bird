@@ -2,9 +2,9 @@
 DirectX 9로 제작한 [Flappy Bird](https://flappybird.fandom.com/wiki/Flappy_Bird) 의 모작 프로젝트
 
 # 개발 환경
-- <pre><code>Visual Studio 2008</code></pre>
-- <pre><code>DirectX 9</code></pre>
-- <pre><code>C++</code></pre>
+- `Visual Studio 2008`
+- `DirectX 9`
+- `C++`
 
 ## 실행 파일
 FlappyBird\x64\Release\Senior Engine.exe
