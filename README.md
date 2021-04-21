@@ -7,7 +7,7 @@ DirectX 9로 제작한 [Flappy Bird](https://flappybird.fandom.com/wiki/Flappy_B
 - `C++`
 
 # 실행 방법
-FlappyBird\x64\Release\Senior Engine.exe 파일을 실행시켜주시면 됩니다. 
+`FlappyBird\x64\Release\Senior Engine.exe` 파일을 실행시켜주시면 됩니다. 
 (리소스 폴더 중요!!)
 
 # 게임 치트키
